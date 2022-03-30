@@ -2,7 +2,7 @@
 <b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![LEGENDBOT](https://telegra.ph/file/36bd0fbbbd34cc19d48b5.jpg.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
   <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
@@ -57,7 +57,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://telegra.ph/file/36bd0fbbbd34cc19d48b5.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
